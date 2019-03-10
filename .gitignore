@@ -1,0 +1,6 @@
+*.dcu
+*.bak
+ignore_git.*
+GitHub/*
+__history/
+blablablablablabla
